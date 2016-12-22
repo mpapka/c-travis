@@ -11,5 +11,5 @@ addons:
 
 script:
   - make
-  - ./hello
+  - ./c-travis
 
