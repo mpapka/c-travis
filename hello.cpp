@@ -10,6 +10,7 @@ int main(int argc, char* argv[]) {
    if (argc > 1) {
       cout << "Hello " << argv[1] << " too" << endl;
    }
+   /* This calls a function that tests Boost at a basic level */
    boost_demo();
    exit(0);
 }
