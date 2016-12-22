@@ -7,7 +7,7 @@ compiler:
 addons:
   apt:
     packages:
-    - libxml2-dev
+    - libboost-all-dev
 
 script:
   - make
