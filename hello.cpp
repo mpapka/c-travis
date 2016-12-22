@@ -12,6 +12,9 @@ int main(int argc, char* argv[]) {
    }
    /* This calls a function that tests Boost at a basic level */
    boost_demo();
+
+   cout << "This is a Mike Addtions" << endl;
+
    exit(0);
 }
 
