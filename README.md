@@ -1,7 +1,7 @@
 Build Status
 ---------------
 
-[![Build Status](https://travis-ci.org/gkthiruvathukal/c-travis.svg?branch=master)](https://travis-ci.org/gkthiruvathukal/c-travis)
+[![Build Status](https://travis-ci.org/mpapka/c-travis.svg?branch=master)](https://travis-ci.org/mpapka/c-travis)
 
 Introduction
 -------------
