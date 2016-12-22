@@ -14,6 +14,7 @@ int main(int argc, char* argv[]) {
    boost_demo();
 
    cout << "This is a Mike Addtions" << endl;
+   cout << "This is a Mike Addtions" << endl;
 
    exit(0);
 }
