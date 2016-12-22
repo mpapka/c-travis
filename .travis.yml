@@ -9,7 +9,7 @@ addons:
     packages:
     - libxml2-dev
 
-install:
+script:
   - make hello
   - ./hello
 
