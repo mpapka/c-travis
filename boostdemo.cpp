@@ -8,7 +8,7 @@ using namespace std;
 
 int boost_demo()
 {
-    std::string hello( "Hello, world!" );
+    std::string hello( "Hello, world! Mike" );
 
     cout << "Basic Boost example (for testing libraries on Travis)" << endl;
     BOOST_FOREACH( char ch, hello )
